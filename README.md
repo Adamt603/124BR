@@ -6,6 +6,7 @@
     border: 1px solid black;
     border-radius: 5px 5px 0 0;
     cursor: pointer;
+    float: left; /* Float the tabs to the left */
   }
   .tab.active {
     background-color: white;
@@ -16,6 +17,7 @@
     padding: 20px;
     border: 1px solid black;
     border-top: none;
+    clear: both; /* Clear the float */
   }
   .tab-content.active {
     display: block;
@@ -27,7 +29,7 @@
   <p style="margin-left: 20px;">Hello, my name is Adam Potter. I am a computer science student at UCSD. </p>
 </div>
 
-<div style="text-align: right;">
+<div style="margin-top: 10px;"> <!-- Add margin-top to move the tabs to the top of the page -->
   <div class="tab active" onclick="openTab(event, 'tab1')">Tab 1</div>
   <div class="tab" onclick="openTab(event, 'tab2')">Tab 2</div>
   <div class="tab" onclick="openTab(event, 'tab3')">Tab 3</div>
