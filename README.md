@@ -11,3 +11,14 @@
 <br><br><br>
 
 ### My work from EDS 124BR Teaching Computational Thinking for Everyone
+
+[vidoe](https://youtu.be/ZoHyVPAtGIE)
+
+[![Video](./images/IMG_1352.JPG)](https://youtu.be/ZoHyVPAtGIE)
+
+<video controls>
+  <source src="https://youtu.be/ZoHyVPAtGIE" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
