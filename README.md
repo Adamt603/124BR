@@ -5,7 +5,7 @@
 
 ### The point of this page is to be a resource to teach kids k-12 how to program.
 
-<br><br><br>
+<br><br>
 
 ### My work from EDS 124BR Teaching Computational Thinking for Everyone
 
