@@ -9,6 +9,8 @@
 
 ### My work from EDS 124BR Teaching Computational Thinking for Everyone
 
+<iframe width="754" height="505" src="https://www.youtube.com/embed/7qtek_sYmdc" title="Nested loops" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 <iframe width="754" height="505" src="https://www.youtube.com/embed/_wPauymOLw0" title="Loops" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <iframe width="892" height="502" src="https://www.youtube.com/embed/gIv_Zx7h8mM" title="Animals" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
