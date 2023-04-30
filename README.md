@@ -9,6 +9,8 @@
 
 ### My work from EDS 124BR Teaching Computational Thinking for Everyone
 
+<iframe width="754" height="505" src="https://www.youtube.com/embed/Xk1YWC7Tmg4" title="Variables in java and what they are" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 <iframe width="754" height="505" src="https://www.youtube.com/embed/sMquYWl5tQE" title="Events using block based language" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <iframe width="754" height="505" src="https://www.youtube.com/embed/7qtek_sYmdc" title="Nested loops" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
