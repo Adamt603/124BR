@@ -9,6 +9,8 @@
 
 ### My work from EDS 124BR Teaching Computational Thinking for Everyone
 
+<iframe width="754" height="505" src="https://www.youtube.com/embed/z_h2N2CX6k8" title="compound conditionals" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 <iframe width="754" height="505" src="https://www.youtube.com/embed/8xeXFSEN53E" title="Nested If statements" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <iframe width="754" height="505" src="https://www.youtube.com/embed/iVDDJqiuiNo" title="If and else statements" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
